@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.exe
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.deps.json
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.runtimeconfig.json
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.runtimeconfig.dev.json
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.dll
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\ref\csharp_Enum.dll
+D:\yazılım\pratikler\csharp_Enum\bin\Debug\net5.0\csharp_Enum.pdb
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.AssemblyInfo.cs
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.dll
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\ref\csharp_Enum.dll
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.pdb
+D:\yazılım\pratikler\csharp_Enum\obj\Debug\net5.0\csharp_Enum.genruntimeconfig.cache
